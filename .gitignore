@@ -1,7 +1,10 @@
+data/
 train/
 test/
+clean/
 clean_train/
 clean_test/
+segmented/
 segmented_train/
 segmented_test/
 svm_evaluation.txt
