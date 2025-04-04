@@ -13,3 +13,10 @@ cnn_mfcc_evaluation.txt
 cnn_mfcc_model.h5
 cnn_melspectrogram_evaluation.txt
 cnn_melspectrogram_model.h5
+IRMAS_clean
+IRMAS_data
+IRMAS_segmented
+kaggle_clean
+kaggle_data
+kaggle_meta
+kaggle_segmented
