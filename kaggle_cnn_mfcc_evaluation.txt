@@ -1,25 +1,25 @@
-Accuracy: 0.9227696404793608
+Accuracy: 0.9167776298268975
 
 Classification Report:
                   precision    recall  f1-score   support
 
- Acoustic_guitar       0.97      0.91      0.94        98
-       Bass_drum       0.82      0.93      0.88        15
-           Cello       0.95      0.90      0.93        21
-        Clarinet       0.84      0.86      0.85        37
-         Cowbell       0.78      0.98      0.87        63
-     Double_bass       0.96      0.95      0.95        91
-  Electric_piano       0.94      0.91      0.92       322
-           Flute       0.95      0.94      0.95       167
-    Glockenspiel       0.90      0.93      0.91       151
+ Acoustic_guitar       0.95      0.93      0.94        98
+       Bass_drum       0.93      0.93      0.93        15
+           Cello       0.83      0.95      0.89        21
+        Clarinet       0.76      0.92      0.83        37
+         Cowbell       0.81      0.95      0.88        63
+     Double_bass       0.98      0.98      0.98        91
+  Electric_piano       0.94      0.88      0.91       322
+           Flute       0.92      0.95      0.94       167
+    Glockenspiel       0.90      0.94      0.92       151
        Harmonica       1.00      0.93      0.96        28
-          Hi-hat       0.85      0.85      0.85        71
-            Oboe       0.95      0.84      0.89        95
+          Hi-hat       0.78      0.90      0.84        71
+            Oboe       0.97      0.74      0.84        95
        Saxophone       0.76      1.00      0.86        16
-      Tambourine       1.00      0.96      0.98        23
-         Trumpet       0.95      0.94      0.95       107
-Violin_or_fiddle       0.94      0.95      0.95       197
+      Tambourine       0.96      0.96      0.96        23
+         Trumpet       0.93      0.96      0.94       107
+Violin_or_fiddle       0.96      0.94      0.95       197
 
         accuracy                           0.92      1502
-       macro avg       0.91      0.92      0.91      1502
-    weighted avg       0.93      0.92      0.92      1502
+       macro avg       0.90      0.93      0.91      1502
+    weighted avg       0.92      0.92      0.92      1502
