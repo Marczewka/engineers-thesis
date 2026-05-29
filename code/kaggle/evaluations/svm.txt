@@ -1,0 +1,25 @@
+Accuracy: 0.7837837837837838
+
+Classification Report:
+                  precision    recall  f1-score   support
+
+ Acoustic_guitar       0.58      0.71      0.64        21
+       Bass_drum       0.92      0.85      0.88        13
+           Cello       0.91      0.80      0.85        25
+        Clarinet       0.70      0.54      0.61        26
+         Cowbell       0.89      0.89      0.89        19
+     Double_bass       0.82      1.00      0.90        18
+  Electric_piano       0.77      0.67      0.71        15
+           Flute       0.62      0.77      0.69        26
+    Glockenspiel       0.88      1.00      0.93        14
+       Harmonica       0.82      0.78      0.80        18
+          Hi-hat       0.81      0.94      0.87        18
+            Oboe       0.63      0.85      0.72        20
+       Saxophone       0.80      0.73      0.76        51
+      Tambourine       0.90      0.95      0.92        19
+         Trumpet       0.81      0.76      0.79        17
+Violin_or_fiddle       0.85      0.70      0.77        50
+
+        accuracy                           0.78       370
+       macro avg       0.79      0.81      0.80       370
+    weighted avg       0.79      0.78      0.78       370

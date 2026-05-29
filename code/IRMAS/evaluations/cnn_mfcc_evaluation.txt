@@ -1,0 +1,20 @@
+Accuracy: 0.701963708675118
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         cel       0.60      0.87      0.71       233
+         cla       0.66      0.67      0.66       303
+         flu       0.64      0.57      0.60       270
+         gac       0.73      0.82      0.78       382
+         gel       0.68      0.65      0.66       456
+         org       0.75      0.75      0.75       409
+         pia       0.74      0.65      0.70       433
+         sax       0.60      0.60      0.60       376
+         tru       0.77      0.71      0.74       346
+         vio       0.67      0.68      0.67       348
+         voi       0.83      0.76      0.80       467
+
+    accuracy                           0.70      4023
+   macro avg       0.70      0.70      0.70      4023
+weighted avg       0.71      0.70      0.70      4023

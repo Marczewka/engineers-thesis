@@ -1,7 +1,7 @@
-IRMAS_clean
-IRMAS_data
-IRMAS_segmented
-kaggle_clean
-kaggle_data
-kaggle_meta
-kaggle_segmented
+.ipynb_checkpoints/
+anaconda_projects/
+
+features/
+data/
+
+!*.md
