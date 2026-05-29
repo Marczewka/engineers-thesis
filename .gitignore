@@ -1,7 +1,12 @@
 .ipynb_checkpoints/
 anaconda_projects/
 
-features/
-data/
+# Ignore binary/large files in any features/ directory but allow markdowns (README.md)
+**/features/**
+!**/features/**/
+!**/features/**/*.md
 
-!*.md
+# Ignore files in any data/ directory but allow markdowns (README.md)
+**/data/**
+!**/data/**/
+!**/data/**/*.md
