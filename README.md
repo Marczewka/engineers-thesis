@@ -61,19 +61,7 @@ Download IRMAS training data `IRMAS-TrainingData.zip` from:
 
 - https://www.upf.edu/web/mtg/irmas
 
-Then put the training files in `code/IRMAS/data/raw/` using the instrument subfolder layout:
-
-- `cel/`
-- `cla/`
-- `flu/`
-- `gac/`
-- `gel/`
-- `org/`
-- `pia/`
-- `sax/`
-- `tru/`
-- `vio/`
-- `voi/`
+Then put the training files in `code/IRMAS/data/raw/` using the instrument subfolder layout from the dataset.
 
 #### Kaggle
 
